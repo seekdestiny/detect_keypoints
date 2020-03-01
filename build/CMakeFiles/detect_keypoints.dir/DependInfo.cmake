@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stephen/Work/Camera-Course/C3.3_exercise_solution/src/detect_keypoints.cpp" "/home/stephen/Work/Camera-Course/C3.3_exercise_solution/build/CMakeFiles/detect_keypoints.dir/src/detect_keypoints.cpp.o"
+  "/home/jifeiqian/Projects/udacity-sensor-fusion/detect_keypoints/src/detect_keypoints.cpp" "/home/jifeiqian/Projects/udacity-sensor-fusion/detect_keypoints/build/CMakeFiles/detect_keypoints.dir/src/detect_keypoints.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
